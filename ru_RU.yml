@@ -75,6 +75,7 @@ apply-edits-target-group-not-exists: "&cЦелевая группа &4{0}&c не
 apply-edits-target-user-not-uuid: "&cЦелевой пользователь &4{0}&c имеет неверный UUID."
 apply-edits-target-user-unable-to-load: "&cНе удалось загрузить целевого пользователя &4{0}&c."
 apply-edits-target-unknown: "&cНеверная цель. &7({0})"
+apply-edits-target-no-changes-present: "&aВ веб-редакторе не внесено изменений. Возвращенные данные без изменений."
 apply-edits-success: "&aДанные веб-редактора успешно применены к &b{0}&a."
 apply-edits-success-summary: "&7(&a{0} &7{1} и &c{2} &7{3})"
 apply-edits-diff-added: "&a+  &f{0}"
